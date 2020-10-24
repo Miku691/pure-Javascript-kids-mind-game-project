@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 100vh;
+	width: 100%;
+	background-color: gery;
+}
+
+#divBtn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+#btn{
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	overflow: hidden;
+	transition: 0.2s;
+	color: #2196f3;
+}
+
+button:hover{
+	/* color: #01060a; */
+	/* background: #2196f3; */
+	box-shadow: 0 0  10px #2196f3, 0 0  40px #2196f3, 0 0  80px #2196f3;
+}
+
+#userInput{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#userInput input{
+	font-size: 25px;
+	font-weight: bold;
+	margin: 2px;
+}
+
+#firstInput{
+	height: 40px;
+	width: 200px;
+	text-align: center;
+}
+
+#secondInput{
+	height: 40px;
+	width: 200px;
+	text-align: center;
+}
+
+#userAns{
+	height: 40px;
+	width: 200px;
+	text-align: center;
+	margin-right: 50px;
+}
+
+
+#operator{
+	height: 40px;
+	width: 40px;
+	text-align: center;
+}
+
+#equals{
+	font-size: 70px;
+	font-weight: bold;
+}
+
+#scoreCard{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+
+}
+
+#showScore{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	font-size: 20px;
+	color: rgb(19, 212, 29);
+	font-weight: bold;
+	transition: 1s;
+}
+
+#correctCard{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+	margin-top: 20px;
+	color: rgb(49, 230, 49);
+}
+
+#showNoCorrect{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+	margin-bottom: 20px;
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	font-size: 20px;
+	color: rgb(19, 212, 29);
+	font-weight: bold;
+	transition: 1s;
+}
+
+#wrongCard{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+	color: rgb(241, 38, 38);
+}
+
+#showNoWrong{
+	margin-left: 100px;
+	/* margin-bottom: 100px; */
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	font-size: 20px;
+	color: rgb(230, 21, 21);
+	font-weight: bold;
+	transition: 1s;
+}
+
+#calculateDiv{
+	display: flex;
+	justify-content: left;
+	color: darkorange;
+	margin-left: 700px;
+}
+
+#calculateDiv p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#showHelp{
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: capitalize;
+	margin: 5px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	overflow: hidden;
+	transition: 0.2s;
+	color: #f32183;
+	
+}
+
+#showHelp:hover{
+	box-shadow:  0 0  10px #f32183, 0 0  40px #f32183, 0 0  80px #f32183;
+} 
+
+#calculateDiv input{
+	text-align: center;
+	color: darkred;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#showTime{
+	height: 45px;
+	width: 45px;
+	text-align: center;
+	color: forestgreen;
+}
+
+#info{
+	/* background-color: fuchsia; */
+	margin-top: 10px;
+	margin-left: 170px;
+	border: 2px solid gray;
+	border-radius: 5px;;
+}
+
+#infoTitle{
+	text-align: center;
+	text-transform: capitalize;
+	color: blue;
+
+}
+
+#infoParagraph{
+	font-size: 20px;
+}
+
+
+#infoParagraph1{
+	font-size: 20px;
+	margin-left: 30px;
+	color: orangered;
+}
