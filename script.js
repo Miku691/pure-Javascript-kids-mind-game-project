@@ -1,4 +1,3 @@
-
 let fInput = document.getElementById('firstInput');
 let sInput = document.getElementById('secondInput');
 let operator = document.getElementById('operator');
@@ -8,9 +7,6 @@ let showNoCorrect = document.getElementById('showNoCorrect');
 let showNoWrong = document.getElementById('showNoWrong');
 let showResult = document.getElementById('showResult');
 let ids = document.getElementById('showTime');
-
-
-
 
 showScore.value = 0;
 showNoCorrect.value = 0;
