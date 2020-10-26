@@ -21,7 +21,7 @@ and
 I have used HTML5 and CSS3 for designing the page. And to add funcationality i have used java script. 
 ___
 ### javascript screemshot
-![html file]https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/javascriptFile.png?raw=true)
+![html file](https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/javascriptFile.png?raw=true)
 This is a pure java script project. I have not used any external libraries like node js or react framework
 ___
 * How it Works:-
