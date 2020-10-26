@@ -13,15 +13,15 @@ ___
   * used buzzer sound effect for correct and wrong answers.
 
 ### html file screenshot
-![html file](readmeImage\htmlFile.png)
+![html file](https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/htmlFile.png?raw=true)
 and 
 ### css file screenshot
-![html file](readmeImage\cssFile.png)
+![html file](https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/cssFile.png?raw=true)
 
 I have used HTML5 and CSS3 for designing the page. And to add funcationality i have used java script. 
 ___
 ### javascript screemshot
-![html file](readmeImage\javascriptFile.png)
+![html file]https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/javascriptFile.png?raw=true)
 This is a pure java script project. I have not used any external libraries like node js or react framework
 ___
 * How it Works:-
@@ -35,3 +35,7 @@ ___
 ___
 I know there are so many things that I have to improved. I am trying my best to update this.
  Thanks for viewing my project.Please suggest me what new should I have to add.
+ ___
+ ![page 1](https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/page1.png?raw=true)
+ ___
+ ![page 2](https://github.com/Miku691/pure-Javascript-kids-mind-game-project/blob/master/readmeImage/page2.png?raw=true)
